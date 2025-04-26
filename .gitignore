@@ -1,0 +1,7 @@
+.env
+__pycache__
+
+color_dialog.py 
+color_picker.py 
+
+paint1.py
